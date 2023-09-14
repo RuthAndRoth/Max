@@ -10,12 +10,17 @@ complete text of the licenses used may be found under [Licenses/](Licenses).
 
 The mesh body parts are CC-BY-4.0.
 
+## HUD
+
 The button mesh included in this package were generated from prim builds by Serie Sumei.  They
-are licensed under Creative Commons CC-BY-4.0.
+are licensed under Creative Commons Attribution NonCommercial (CC BY-NC 4.0).
+
+## Contributors
 
 Various Authors and contributors to the Git Repo in alphabetical order are:
 
 * Ada Radius
 * Ai Austin
+* Serie Sumei
 
-Other contributions and testing by members of the OpenSimulator Community.
+Other contributions and testing by members of the RuthAndRoth and OpenSimulator Communities.
