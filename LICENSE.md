@@ -17,7 +17,7 @@ are licensed under Creative Commons Attribution NonCommercial (CC-BY-NC-4.0).
 
 ## Contributors
 
-Various Authors and contributors to the Git Repo in alphabetical order are:
+Various authors and contributors to the Git Repo in alphabetical order are:
 
 * Ada Radius
 * Ai Austin
