@@ -10,3 +10,8 @@ These are included in Licenses/ verbatim, here are the original sources:
 
 * MIT: https://opensource.org/licenses/MIT
 
+For the avoidance of doubt, the intention is that anyone can use the
+CC-BY-NC-4.0 licensed avatar mesh and associated dev kit to create
+assets such as clothing, attachments, etc. which they may distributed
+for free or for a charge. They can also bundle in the free mesh avatar,
+HUD and associated CC-BY-NC-4.0 assets for convenience where useful.
