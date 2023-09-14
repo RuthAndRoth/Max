@@ -8,12 +8,12 @@ complete text of the licenses used may be found under [Licenses/](Licenses).
 
 * Copyright 2023 by Ada Radius
 
-The mesh body parts are Creative Commons Attribution NonCommercial (CC BY-NC 4.0)
+The mesh body parts are Creative Commons Attribution NonCommercial (CC-BY-NC-4.0)
 
 ## HUD
 
 The button mesh included in this package were generated from prim builds by Serie Sumei.  They
-are licensed under Creative Commons Attribution NonCommercial (CC BY-NC 4.0).
+are licensed under Creative Commons Attribution NonCommercial (CC-BY-NC-4.0).
 
 ## Contributors
 
