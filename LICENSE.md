@@ -17,7 +17,7 @@ are licensed under Creative Commons Attribution NonCommercial (CC-BY-NC-4.0).
 
 ## Contributors
 
-Various authors and contributors to the Git Repo in alphabetical order are:
+Creators and contributors to the Max project and the Git Repo in alphabetical order are:
 
 * Ada Radius
 * Ai Austin
