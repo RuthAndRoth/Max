@@ -21,6 +21,8 @@ Various authors and contributors to the Git Repo in alphabetical order are:
 
 * Ada Radius
 * Ai Austin
+* Kayaker Magic
 * Serie Sumei
+* Tom Ernst aka Owl Eyes
 
 Other contributions and testing by members of the RuthAndRoth and OpenSimulator Communities.
