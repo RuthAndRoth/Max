@@ -1,6 +1,6 @@
 # Licenses
 
-We use the SPDX license identifiers (from thes
+We use the SPDX license identifiers (from the
 [SPDX License List](https://spdx.dev/licenses)) in some places to
 identify the covered license.
 
