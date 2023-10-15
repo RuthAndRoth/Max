@@ -21,8 +21,11 @@ Creators and contributors to the Max project and the Git Repo in alphabetical or
 
 * Ada Radius
 * Ai Austin
+* Curious Creator
 * Kayaker Magic
+* Linden Lab
 * Serie Sumei
+* Sundance Haiku
 * Tom Ernst aka Owl Eyes
 
 Other contributions and testing by members of the RuthAndRoth and OpenSimulator Communities.
