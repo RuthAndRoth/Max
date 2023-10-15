@@ -25,7 +25,7 @@ a more reliable development kit is available.
 The new Max, Maxine and Maxwell mesh avatars are licensed under the
 Creative Commons Attribution NonCommercial (CC-BY-NC-4.0) rather than
 the previously used AGPL for Ruth2 and Roth2. See LICENSE.md for specific
-details.
+details and list of contributors.
 
 ## Personal Directories
 
