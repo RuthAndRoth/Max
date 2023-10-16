@@ -6,7 +6,7 @@ identify the covered license.
 
 These are included in Licenses/ verbatim, here are the original sources:
 
-* CC-BY-4.0: https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt
+* CC-BY-4.0: https://creativecommons.org/licenses/by/4.0/deed.en
 
 * MIT: https://opensource.org/licenses/MIT
 
