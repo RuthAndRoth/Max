@@ -1,3 +1,4 @@
-Root Cube (0.05m = 5cm) and may also be uses as a suitable low physics model on DAE upload of the avatar meshes.
+Root Cube (0.01m = 1cm).
+CC-BY-4.0
 
 
