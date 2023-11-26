@@ -1,0 +1,7 @@
+Second Life/OpenSim LSL Script for avatar relaxed hands at idle with bentohandrelaxedP1 animation
+Sourced from https://github.com/RuthAndRoth/Extras/tree/master/Animations
+CC-BY-4.0
+
+Place the bentohandrelaxedP1.bvh animation and bentohandrelaxer.lsl into the avatar body part which contains the hands.
+
+Note that some avatar HUDs can automatiocally apply a hand idle animation so a specific hand relaxer may not always be needed
