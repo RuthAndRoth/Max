@@ -25,7 +25,7 @@ at hop://login.osgrid.org/RuthAndRoth/153/109/21.
 ### Second Life
 
 A box containing full-perm textures of the logo is available at
-[Serie-ous Style](http://maps.secondlife.com/secondlife/Fireheart/218/229/21).
+[Serie-ous Style](http://maps.secondlife.com/secondlife/Fireheart/240/219/21).
 
 ## Construction Details
 
