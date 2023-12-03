@@ -29,6 +29,6 @@ details and list of contributors.
 
 ## Personal Directories
 
-We all continue to utilize personal directories under the top-level directory
+We continue to utilize personal directories under the top-level directory
 'Contrib' as working spaces for team members to put things that are still under
 development before (or until) they are merged into the master release directories.
