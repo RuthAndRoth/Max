@@ -7,8 +7,7 @@ With mesh facing forward in Blender and all transforms applied, select all compo
 
 Export settings - click gear icon, upper right, if they're not visible:
 
-Main tab: check boxes for "Selection Only", "Include Children", "Include Armatures"
-Include Armatures
+Main tab: check boxes for "Selection Only", "Include Children" and "Include Armatures"
 
 Global Orientation Check box "Apply"
 Forward Axis -X
