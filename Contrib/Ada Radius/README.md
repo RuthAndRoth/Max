@@ -18,7 +18,9 @@ Export settings - click gear icon, upper right, if they're not visible:
 
     Arm tab: check boxes for "Deform Bones Only" and "Export to SL/OpenSim
 
-    Extra tab: Check all boxes except "Limit Precision". The "Keep Bind Info" box is to get the volume bones custom settings into the dae file data, not needed if you're not using them and don't expect to export to another ap. 
+    Extra tab: Check all boxes except "Limit Precision". The "Keep Bind Info" box
+    is to get the volume bones custom settings into the dae file data, not needed
+    if you're not using them and don't expect to export to another ap. 
 
 Upload to FS viewer:
 your preferences for LOD and physics, it depends on what you're using it for. 
