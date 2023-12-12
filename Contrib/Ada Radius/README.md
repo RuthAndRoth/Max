@@ -18,6 +18,8 @@ Export settings - click gear icon, upper right, if they're not visible:
 
     Arm tab: check boxes for "Deform Bones Only" and "Export to SL/OpenSim
 
+    Anim tab: there are no animations included so this setting does not matter
+    
     Extra tab: Check all boxes except "Limit Precision". The "Keep Bind Info" box
     is to get the volume bones custom settings into the dae file data, not needed
     if you're not using them and don't expect to export to another ap. 
