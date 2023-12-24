@@ -14,7 +14,6 @@ a more reliable development kit is available.
 * Github Repository: https://github.com/RuthAndRoth/Max
 * Discord Discussion Forum: https://discordapp.com/channels/619919380154810380/619919380691550240
 * Discord Discussion Forum Invitation (open to all): https://discord.gg/UMyaZkc
-* MeWe Community Page: https://mewe.com/group/5bbe0189a5f4e57c73569fb9
 * Second Life Groups: "RuthAndRoth" and "Ruth and Roth Community"
 * Second Life Marketplace Store: RuthAndRoth
 * OpenSim Group: OSGrid RuthAndRoth
